@@ -17,6 +17,8 @@ gem 'coffee-script-source', '1.8.0'
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
+gem 'jquery-turbolinks'
+
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
@@ -26,6 +28,8 @@ gem 'bootstrap-sass'
 # Devise fo logging in
 gem 'devise', '~> 4.2.0'
 gem 'paperclip', '~> 5.1'
+gem 'masonry-rails', '~> 0.2.4'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
